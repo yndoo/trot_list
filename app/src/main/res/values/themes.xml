@@ -3,6 +3,7 @@
     <style name="Base.Theme.Trot_list" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="windowNoTitle">true</item>
     </style>
 
     <style name="Theme.Trot_list" parent="Base.Theme.Trot_list" />
